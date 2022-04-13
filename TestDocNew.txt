@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+this is new file.
+=======
+this is new file.
+After pull.
+>>>>>>> UserB
